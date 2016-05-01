@@ -1,5 +1,13 @@
 # SFTP-Plugin
-Our feeble attempt to make an SFTP plugin for Sublime Text 3, similar to the SFTP plugin in Notepad++
+Our feeble attempt to make an SFTP plugin for Sublime Text 3, similar to the SFTP plugin in Notepad++.
+
+#### Supported Protocols
+--------------------------------
+| Protocol | Supported | Description |
+|----------|-----------|-------------|
+| FTP |  | Regular FTP |
+| FTPS |  | FTP with SSL |
+| SFTP |  | FTP through SSH |
 
 Useful Links:
 
